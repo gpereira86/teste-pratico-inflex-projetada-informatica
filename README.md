@@ -69,4 +69,4 @@ Deve executar as seguintes ações:
 
 > **Orientações gerais:** <br> • Pode ser utilizada a ferramenta com maior domínio (exemplos: eclipse, netbeans etc); 
 <br>• Após finalizado o desenvolvimento, exportar o projeto e disponibilizar o link do seu teste no campo disponível na `etapa Mão na Massa 🖐`. Basta Colar o link ainda nessa etapa.
-<br>• Assim que recebermos seu projeto desenvolvido, será agendada uma entrevista com nosso time técnico para avaliação.
+<br>• Assim que for enviado o projeto desenvolvido, será agendada entrevista com time técnico para avaliação.
